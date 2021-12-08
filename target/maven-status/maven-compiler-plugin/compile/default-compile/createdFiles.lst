@@ -1,0 +1,15 @@
+com\example\mns_architecture_logicielle\Main.class
+com\example\mns_architecture_logicielle\service\AccountService.class
+com\example\mns_architecture_logicielle\maths\Maths.class
+com\example\mns_mockito\user\User.class
+com\example\mns_architecture_logicielle\model\accounts\AccountWithOverdraft.class
+com\example\mns_mockito\db\Database.class
+com\example\mns_architecture_logicielle\model\accounts\AccountWithoutOverdraft.class
+com\example\mns_architecture_logicielle\model\Bank.class
+com\example\mns_architecture_logicielle\model\Client.class
+com\example\mns_architecture_logicielle\model\accounts\Account.class
+com\example\mns_architecture_logicielle\dao\DaoFactory.class
+com\example\mns_mockito\login\Login.class
+com\example\mns_architecture_logicielle\controller\MonPremierControlleur.class
+com\example\mns_architecture_logicielle\database\MaDbFake.class
+com\example\mns_architecture_logicielle\vue\MaVue.class

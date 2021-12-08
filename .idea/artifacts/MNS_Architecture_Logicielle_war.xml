@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MNS_Architecture_Logicielle:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>MNS_Architecture_Logicielle</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="MNS_Architecture_Logicielle-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="MNS_Architecture_Logicielle:war exploded" />
+    </root>
+  </artifact>
+</component>
