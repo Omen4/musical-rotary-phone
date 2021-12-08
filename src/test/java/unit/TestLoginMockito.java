@@ -32,11 +32,11 @@ public class TestLoginMockito {
 //        this.loginSpy = new Login(dbSpy);
     }
 
-    @Test
-    public void testGetLogin() {
-        User user = login.getLogin("TEST", "TEST");
-        Assert.assertEquals("TEST", user.getName());
-    }
+//    @Test
+//    public void testGetLogin() {
+//        User user = login.getLogin("TEST", "TEST");
+//        Assert.assertEquals("TEST", user.getName());
+//    }
 
 //    @Test
 //    public void testGetLoginWithSpy(){}
