@@ -32,6 +32,7 @@ public class TestLoginMockito {
 //        this.loginSpy = new Login(dbSpy);
     }
 
+//this test is corrupted
 //    @Test
 //    public void testGetLogin() {
 //        User user = login.getLogin("TEST", "TEST");
